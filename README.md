@@ -1,14 +1,5 @@
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
-[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/2tqguRj)
+[![Discord](https://img.shields.io/discord/767366198194864208.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord)](https://discord.gg/AWqhSkpnZm)
 
-## This is now archived as I do not exploit anymore
 # Usage
 * Download script executor
 * Extract
@@ -52,7 +43,7 @@
 # Disclaimer
 
 - Almost all of the scripts are not owned by o7
-- too lazy to add credits (sorry)
+- too lazy to add credits
 
 
 
