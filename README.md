@@ -41,9 +41,7 @@
 - https://v3rmillion.net/showthread.php?tid=1096604
 
 # TODO
-- reorganize and reorganize the reorganized files
-- Restyle this readme
-- word tutorials for complex scripts
+- kill myself
 
 # Disclaimer
 
