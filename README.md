@@ -42,12 +42,13 @@
 
 # TODO
 - kill myself
+- add more shit 
 
 # Disclaimer
 
 - Almost all of the scripts are not owned by o7
 - too lazy to add credits
-
+- Some scripts may not work
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
