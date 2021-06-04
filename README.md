@@ -42,6 +42,7 @@
 
 # TODO
 - kill myself
+- don't
 - add more shit 
 
 # Disclaimer
